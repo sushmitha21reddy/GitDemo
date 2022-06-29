@@ -6,5 +6,6 @@ Given user is on landing page
 When user login into application by giving user name and password 
 Then home page is populated
 And Crads are displayed  
+And Cradsss are displayed  
 
 
