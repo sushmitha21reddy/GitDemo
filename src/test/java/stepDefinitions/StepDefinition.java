@@ -21,6 +21,9 @@ public class StepDefinition {
     @When("^user login into application by giving user name and password $")
     public void user_login_into_application_by_giving_user_name_and_password()  {
     	System.out.println("try to login ");
+    	System.out.println("try to login ");
+    	System.out.println("try to login ");
+    	System.out.println("try to login ");
     }
 
     @Then("^home page is populated$")
