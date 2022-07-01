@@ -35,6 +35,14 @@ public class AppTest {
         	System.out.println("try to login 7");
         	System.out.println("try to login8 ");
         	System.out.println("try to login 9");
+        	
+        	
+        	@When("^user login application by giving user name and password $")
+            public void user_login_application_by_giving_user_name_and_password()  {
+            	System.out.println("try to login ");
+            	System.out.println("try to login ");
+            	System.out.println("try to login ");
+            	System.out.println("try to login ");
         }
     }
   }
